@@ -22,7 +22,7 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Projects
 - **[FoodApp — Food Delivery](ca://s?q=Describe_FoodApp_project)**  
   Developed a modern food delivery platform with sleek UI, ordering functionality, and curated Unsplash imagery.  
   Deployed using Hercules framework.
@@ -33,6 +33,17 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 - **Mobile Development Environments**  
   Installed and configured SDKs and tools (Expo, Xcode, IntelliJ IDEA) for cross-platform app development.
 
+---
+```mermaid
+pie title Projects Distribution
+    "Python" : 5
+    "JavaScript" : 5
+    "Java" : 1
+    "C++" : 1
+    "Go" : 1
+    "Flutter" : 3
+    "TypeScript" : 8
+```
 ---
 
 ## 🎨 Design Philosophy
@@ -51,3 +62,6 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ## 🌟 Career Goals
 To grow as a full-stack developer, specialize in **mobile app development**, and contribute to impactful projects that merge technology with user-centered design.
+
+
+
