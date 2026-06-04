@@ -2,7 +2,7 @@
 ---
 
 ## 👤 Profile
-IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **Software development**, **Web/Mobile app development** focused on building scalable, user-friendly applications with clean architecture and intuitive interfaces.
+IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **Software development**, **Web/Mobile app development** focused on building scalable, secure by design, user-friendly applications with clean architecture and intuitive interfaces.
 
 ---
 
