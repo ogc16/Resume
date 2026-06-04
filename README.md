@@ -47,16 +47,17 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
   const projectChart = new Chart(ctx, {
     type: 'doughnut',
     data: {
-      labels: ['JavaScript/TypeScript', 'Python', 'Flutter', 'Java', 'C++', 'Go'],
+      labels: ['JavaScript/TypeScript', 'Python', 'Flutter', 'Java', 'C++', 'Go','Others'],
       datasets: [{
-        data: [15, 5, 3, 1, 1, 1],
+        data: [15, 5, 3, 1, 1, 1, 4],
      backgroundColor: [
-       '#F7DF1E', // JavaScript/TypeScript
-        '#3776AB', // Python
+       '#3178c6', // JavaScript/TypeScript
+        '#116191', // Python
         '#02569B', // Flutter
-        '#ED8B00', // Java
-        '#659AD2', // C++
-        '#00ADD8'  // Go
+        '#bf2a0d', // Java
+        '#060d99', // C++
+        '#1297b5',  // Go
+        '#e3c712' //Others
 ],
         borderColor: [
           '#ffffff',
@@ -64,7 +65,8 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
           '#ffffff',
           '#ffffff',
           '#ffffff',
-          '#ffffff'
+          '#ffffff',
+           '#ffffff' 
         ],
         borderWidth: 2
       }]
