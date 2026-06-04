@@ -7,18 +7,18 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 ---
 
 ## 🛠 Skills
-- **[React](ca://s?q=Explain_React_skills)** — Intermediate level, building dynamic web applications.
-- **[Flutter](ca://s?q=Explain_Flutter_skills)** — Beginner, exploring cross-platform mobile development.
-- **[Kotlin](ca://s?q=Explain_Kotlin_skills)** — Beginner, Android development fundamentals.
-- **[UML Diagrams](ca://s?q=Explain_UML_diagrams)** — Conceptual modeling and OOAD assignments.
-- **[Development Tools](ca://s?q=Explain_Developer_Tools)**: Expo, Xcode, IntelliJ IDEA, Safe Exam Browser (SEB).
+- **[React](ca://s?q=Explain_React_skills)** — Building dynamic web applications - Nextjs, React Native, VITE.
+- **[Flutter](ca://s?q=Explain_Flutter_skills)** — Cross-platform mobile development.
+- **[Kotlin](ca://s?q=Explain_Kotlin_skills)** —  Android development .
+- **[UML](ca://s?q=Explain_UML_diagrams)** — Conceptual modeling,sequential diagrams, PlantUML
+- **[Developer Tools](ca://s?q=Explain_Developer_Tools)**: Expo, Xcode, IntelliJ IDEA, Visual Studio, Version Control(Git/GitHub/GitLab).
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Information Technology (BIT)**  
-  Focus: Object-Oriented Analysis and Design (BIT2114)  
-  Coursework includes UML modeling, conceptual design, and software architecture.
+- **Bachelor of Science(Information Technology) (BScIT)**  
+  Focus: Object-Oriented Analysis and Design   
+  Coursework includes UML modeling, conceptual design, Data structures and Algorithms, and software architecture.
 
 ---
 
