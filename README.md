@@ -27,6 +27,9 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
   Developed a modern food delivery platform with sleek UI, ordering functionality, and curated Unsplash imagery.  
   Deployed using Hercules framework.
 
+- **[News Aggregator](https://aggregatorx1.netlify.app/)**
+  News aggregator covering sports, crypto & tech — built with React + Vite and a Node.js scraping backend (Cheerio). Features auth, bookmarks, dark mode, and social sharing via Supabase.
+  
 - **ERP Systems Research**  
   Conceptual modeling and exploration of enterprise resource planning solutions for business technology.
 
