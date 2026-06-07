@@ -22,24 +22,38 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-##  Projects
+## 🚀 Projects
+
 - **[Parcel Delivery App](https://parcelapp.expo.app/)**  
-  Developed a modern parcel delivery platform with sleek UI, ordering functionality, and curated Unsplash imagery.  
+  **Situation:** Rising demand for efficient parcel delivery solutions.  
+  **Task:** Create a modern platform with intuitive ordering and tracking.  
+  **Action:** Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  
+  **Result:** Delivered a responsive app that enhances user experience and streamlines parcel management.
 
-- **[News Aggregator](https://aggregatorx1.netlify.app/)**
-  News aggregator covering sports, crypto & tech — built with React + Vite and a Node.js scraping backend (Cheerio). Features auth, bookmarks, dark mode, and social sharing via Supabase.
-  
+- **[News Aggregator](https://aggregatorx1.netlify.app/)**  
+  **Situation:** Users needed a single hub for diverse news sources.  
+  **Task:** Develop a platform covering sports, crypto, and tech.  
+  **Action:** Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  
+  **Result:** Created a dynamic aggregator that improves accessibility and engagement with personalized features.
+
 - **ERP Systems Research**  
-  Conceptual modeling and exploration of enterprise resource planning solutions for business technology.
+  **Situation:** Businesses require scalable enterprise resource planning solutions.  
+  **Task:** Explore conceptual models for ERP integration.  
+  **Action:** Conducted research and modeling of ERP systems for business technology.  
+  **Result:** Produced insights into ERP design, supporting future system implementations and academic work.
 
-- **[e-commerce mobile app](https://epay.expo.app/)**  
-  Experimenting on ui.
+- **[E-commerce Mobile App](https://epay.expo.app/)**  
+  **Situation:** Need for experimentation with mobile commerce interfaces.  
+  **Task:** Prototype UI for an e-commerce app.  
+  **Action:** Designed and tested user interface components to evaluate usability.  
+  **Result:** Established a foundation for future iterations of mobile shopping experiences.
 
-- **[House](https://ogc16.github.io/house/)**
-  Web view of an Architectural design and proposed floor plan.
-
+- **[House Design](https://ogc16.github.io/house/)**  
+  **Situation:** Architectural visualization of residential planning.  
+  **Task:** Present a proposed floor plan in web format.  
+  **Action:** Created a web view showcasing architectural design and layout.  
+  **Result:** Delivered an accessible digital representation of the house plan for review and presentation.
 ---
-
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
   <canvas id="projectChart"></canvas>
