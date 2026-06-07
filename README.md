@@ -22,37 +22,58 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-- **[Parcel Delivery App](https://parcelapp.expo.app/)**  
-  **Situation:** Rising demand for efficient parcel delivery solutions.  
-  **Task:** Create a modern platform with intuitive ordering and tracking.  
-  **Action:** Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  
-  **Result:** Delivered a responsive app that enhances user experience and streamlines parcel management.
+<details>
+<summary> Parcel Delivery App</summary>
 
-- **[News Aggregator](https://aggregatorx1.netlify.app/)**  
-  **Situation:** Users needed a single hub for diverse news sources.  
-  **Task:** Develop a platform covering sports, crypto, and tech.  
-  **Action:** Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  
-  **Result:** Created a dynamic aggregator that improves accessibility and engagement with personalized features.
+**Situation:** Rising demand for efficient parcel delivery solutions.  
+**Task:** Create a modern platform with intuitive ordering and tracking.  
+**Action:** Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  
+**Result:** Delivered a responsive app that enhances user experience and streamlines parcel management.
 
-- **ERP Systems Research**  
-  **Situation:** Businesses require scalable enterprise resource planning solutions.  
-  **Task:** Explore conceptual models for ERP integration.  
-  **Action:** Conducted research and modeling of ERP systems for business technology.  
-  **Result:** Produced insights into ERP design, supporting future system implementations and academic work.
+</details>
 
-- **[E-commerce Mobile App](https://epay.expo.app/)**  
-  **Situation:** Need for experimentation with mobile commerce interfaces.  
-  **Task:** Prototype UI for an e-commerce app.  
-  **Action:** Designed and tested user interface components to evaluate usability.  
-  **Result:** Established a foundation for future iterations of mobile shopping experiences.
+<details>
+<summary>News Aggregator</summary>
 
-- **[House Design](https://ogc16.github.io/house/)**  
-  **Situation:** Architectural visualization of residential planning.  
-  **Task:** Present a proposed floor plan in web format.  
-  **Action:** Created a web view showcasing architectural design and layout.  
-  **Result:** Delivered an accessible digital representation of the house plan for review and presentation.
+**Situation:** Users needed a single hub for diverse news sources.  
+**Task:** Develop a platform covering sports, crypto, and tech.  
+**Action:** Built with React + Vite frontend and Node.js scraping backend (Cheerio). Added Supabase for auth, bookmarks, dark mode, and social sharing.  
+**Result:** Created a dynamic aggregator that improves accessibility and engagement with personalized features.
+
+</details>
+
+<details>
+<summary>ERP Systems Research</summary>
+
+**Situation:** Businesses require scalable enterprise resource planning solutions.  
+**Task:** Explore conceptual models for ERP integration.  
+**Action:** Conducted research and modeling of ERP systems for business technology.  
+**Result:** Produced insights into ERP design, supporting future system implementations and academic work.
+
+</details>
+
+<details>
+<summary>E-commerce Mobile App</summary>
+
+**Situation:** Need for experimentation with mobile commerce interfaces.  
+**Task:** Prototype UI for an e-commerce app.  
+**Action:** Designed and tested user interface components to evaluate usability.  
+**Result:** Established a foundation for future iterations of mobile shopping experiences.
+
+</details>
+
+<details>
+<summary> House Design</summary>
+
+**Situation:** Architectural visualization of residential planning.  
+**Task:** Present a proposed floor plan in web format.  
+**Action:** Created a web view showcasing architectural design and layout.  
+**Result:** Delivered an accessible digital representation of the house plan for review and presentation.
+
+</details>
+
 ---
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
