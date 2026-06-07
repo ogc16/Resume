@@ -27,10 +27,10 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 <details>
 <summary> Parcel Delivery App</summary>
 
-<b>Situation:</b> Rising demand for efficient parcel delivery solutions.  
-<b>Task:</b> Create a modern platform with intuitive ordering and tracking.  
-**Action:** Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  
-**Result:** Delivered a responsive app that enhances user experience and streamlines parcel management.
+<b>Situation:</b> Rising demand for efficient parcel delivery solutions.  <br>
+<b>Task:</b> Create a modern platform with intuitive ordering and tracking.  <br>
+<b>Action:</b> Designed a sleek UI and integrated ordering functionality with curated Unsplash imagery.  <br>
+<b>Result:</b> Delivered a responsive app that enhances user experience and streamlines parcel management. <br>
 
 </details>
 
