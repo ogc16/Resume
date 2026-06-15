@@ -17,7 +17,7 @@ Driven by a performance-focused engineering philosophy that couples rigorous UML
 - **Kotlin** — Native Android application development.
 - **UML** — Conceptual modeling, sequence diagrams, use-cases, PlantUML.
 - **Developer Tools** — Expo, Xcode, IntelliJ IDEA, Visual Studio, Version Control (Git/GitHub).
-- **Backend Tech** — Node.js, Supabase,cloud databases
+- **Backend & Cloud Tech** — Node.js, Supabase, PostgreSQL, REST/GraphQL APIs, Firebase, async storage.
 
 ---
 
