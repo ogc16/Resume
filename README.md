@@ -69,7 +69,7 @@ Driven by a performance-focused engineering philosophy that couples rigorous UML
 <summary><b>File Manipulation Tools</b> — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</a></summary>
 <br>
 <b>Situation:</b> Office teams frequently struggle with local data processing due to slow server-side transformation tools.<br>
-<b>Task:</b> Construct an all-in-one local data utility utility suite handling large file conversions and data visualization.<br>
+<b>Task:</b> Construct an all-in-one local data utility suite handling large file conversions and data visualization.<br>
 <b>Action:</b> Programmed clean file pipelines for Excel/PDF-to-CSV transformation, chart rendering, ZIP archival operations, and client-side encryption algorithms.<br>
 <b>Result:</b> Saved users significant administrative processing overhead by executing all operations safely in the browser client.<br>
 </details>
