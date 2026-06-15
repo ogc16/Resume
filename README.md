@@ -7,17 +7,15 @@
 ---
 
 ## Profile
-Strong foundation in software development and a proven track record of architecting scalable, secure-by-design digital products. Expert at bridging complex backend data structures with frictionless, user-centric web and mobile interfaces using React, Next.js, and Flutter. <br>
-Driven by a performance-focused engineering philosophy that couples rigorous UML structural modeling with metric-driven business outcomes—consistently reducing system latency, errors, and operational overhead.
+Performance-focused Software Engineer with a proven track record of architecting secure, scalable digital products. <br>
+Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript(React and Next.js) and Flutter.
 ---
 
 ## Skills
-- **React / Next.js** — Building dynamic web applications (Next.js, React Native, Vite).
-- **Flutter** — Cross-platform mobile application engineering.
-- **Kotlin** — Native Android application development.
-- **UML** — Conceptual modeling, sequence diagrams, use-cases, PlantUML.
-- **Developer Tools** — Expo, Xcode, IntelliJ IDEA, Visual Studio, Version Control (Git/GitHub).
-- **Backend & Cloud Tech** — Node.js, Supabase, PostgreSQL, REST/GraphQL APIs, Firebase, async storage.
+### Technical Skills
+- **Frontend Ecosystem**: React, Next.js, React Native, Vite, Flutter, Kotlin (Native Android)
+- **Backend & Cloud**: Node.js, Supabase, PostgreSQL, REST/GraphQL APIs, async, local
+- **Architecture & Tooling**: UML Modeling (PlantUML), Git/GitHub, Expo, Xcode, IntelliJ IDEA
 
 ---
 
