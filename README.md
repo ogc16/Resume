@@ -68,7 +68,7 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 </details>
 <details>
-  <summary>File Manipulation  — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</summary><br>
+  <summary>File Manipulation  — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</a></summary><br>
     Upload files : <br>
     - <b>File conversion </b> - pdf, csv, excel, word and scan-to-pdf  <br>
     - <b>Data analysis</b> visualization - piecharts, bars, histograms <br>
