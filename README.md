@@ -9,6 +9,7 @@
 ## Profile
 Performance-focused Software Engineer with a proven track record of architecting secure, scalable digital products. <br>
 Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript(React and Next.js) and Flutter.
+
 ---
 ## Skills
 ### Technical Skills
