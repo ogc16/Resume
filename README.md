@@ -68,7 +68,7 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 
 </details>
 <details>
-  <summary>File Manipulation  — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</a></summary><br>
+  <summary><b>File Manipulation</b>  — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</a></summary><br>
     Upload files : <br>
     - <b>File conversion </b> - pdf, csv, excel, word and scan-to-pdf  <br>
     - <b>Data analysis</b> visualization - piecharts, bars, histograms <br>
@@ -76,7 +76,7 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
     - <b>Encryption & Decryption</b> <br>
 </details>
 <details>
- <summary> Image Resizer- <a href="https://ogc16.github.io/ChromeExtensionTool/">Demo</a></summary> <br>
+ <summary> <b>Image Editor </b>  — <a href="https://ogc16.github.io/ChromeExtensionTool/">Demo</a></summary> <br>
   <b>Prepare your assets for Chrome Web store</b>
 </details>
 ---
