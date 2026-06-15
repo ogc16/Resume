@@ -15,13 +15,17 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 - **Frontend Ecosystem**: React, Next.js, React Native, Vite, Flutter, Kotlin (Native Android)
 - **Backend & Cloud**: Node.js, Supabase, PostgreSQL, REST/GraphQL APIs, async, local
 - **Architecture & Tooling**: UML Modeling (PlantUML), Git/GitHub, Expo, Xcode, IntelliJ IDEA
+- **Network tools**: Wireshark, OSINT, Burp Suite, Splunk, Nmap
 
 ---
 
 ## Education
-- **Bachelor of Science in Information Technology (BScIT)**  
-  *Focus: Object-Oriented Analysis and Design*  
+- **Bachelor of Science in Information Technology (BScIT)** -JKUAT,Kenya <br>
+  *Focus: Object-Oriented Analysis and Design*  <br>
   Coursework: UML modeling, conceptual design, Data Structures & Algorithms (DSA), and software architecture.
+
+- *Junior Cybersecurity Analyst*- CISCO
+- *Cybersecurity Certificate* - Google
 
 ---
 
