@@ -25,7 +25,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
   *Focus: Object-Oriented Analysis and Design*  <br>
   Coursework: UML modeling, conceptual design, Data Structures & Algorithms (DSA), and software architecture.
 
-- *Junior Cybersecurity Analyst*- CISCO
+- *Junior Cybersecurity Analyst Certificate* - CISCO
 - *Cybersecurity Certificate* - Google
 
 ---
