@@ -75,6 +75,9 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
     - <b>Zipping & Extraction</b> <br>
     - <b>Encryption & Decryption</b> <br>
 </details>
+<details>
+  [Image Resizer](https://ogc16.github.io/ChromeExtensionTool/)
+</details>
 ---
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
