@@ -76,7 +76,8 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
     - <b>Encryption & Decryption</b> <br>
 </details>
 <details>
-  [Image Resizer](https://ogc16.github.io/ChromeExtensionTool/)
+ <summary> Image Resizer- <a href="https://ogc16.github.io/ChromeExtensionTool/">Demo</a></summary> <br>
+  <b>Prepare your assets for Chrome Web store</b>
 </details>
 ---
 
