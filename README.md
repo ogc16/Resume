@@ -79,6 +79,15 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
  <summary> <b>Image Editor </b>  — <a href="https://ogc16.github.io/ChromeExtensionTool/">Demo</a></summary> <br>
   <b>Prepare your assets for Chrome Web store</b>
 </details>
+<details>
+  <summary>
+    <b>Vulnerability scanner </b> — <a href="https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn?utm_source=item-share-cb">Chrome Webstore extension</a>
+  </summary><br>
+ - <b>Detection</b><br>
+ - <b>Predictive</b> <br>
+ - <b>Network Analysis </b> <br>
+  - <b>Threat Analysis</b>
+</details>
 ---
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
