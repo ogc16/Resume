@@ -67,6 +67,14 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 <b>Result:</b> Delivered an accessible digital representation of the house plan for review and presentation.<br>
 
 </details>
+<details>
+  <summary>File Manipulation  — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</summary><br>
+    Upload files : <br>
+    - <b>File conversion </b> - pdf, csv, excel, word and scan-to-pdf  <br>
+    - <b>Data analysis</b> visualization - piecharts, bars, histograms <br>
+    - <b>Zipping & Extraction</b> <br>
+    - <b>Encryption & Decryption</b> <br>
+</details>
 ---
 
 <div style="width: 80%; max-width: 600px; margin: 20px auto;">
