@@ -1,5 +1,9 @@
 
 ---
+-  [Caleb Kibet](https://www.linkedin.com/in/caleb-kibet-834020362)    |    [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com)   |  [+254 703 871 410](tel:+254703871410)  
+
+  ---
+
 
 ## Profile
 IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **Software development**, **Web/Mobile app development** focused on building scalable, secure by design, user-centric solutions.
@@ -154,13 +158,6 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
 - Clean layouts and structured navigation  
 - Functionality paired with aesthetic appeal  
 - Visual storytelling through curated imagery
-
----
-
-## Contact
-- Email: [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com)  
-- Phone: [+254 703 871 410](tel:+254703871410)  
-- LinkedIn: [Caleb Kibet](https://www.linkedin.com/in/caleb-kibet-834020362)
 
 ---
 
