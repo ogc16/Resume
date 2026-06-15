@@ -1,6 +1,6 @@
 
 ---
--  [Caleb Kibet](https://www.linkedin.com/in/caleb-kibet-834020362)    |    [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com)   |  [+254 703 871 410](tel:+254703871410)  
+[Caleb Kibet](https://www.linkedin.com/in/caleb-kibet-834020362)    |    [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com)   |  [+254 703 871 410](tel:+254703871410)  
 
   ---
 
