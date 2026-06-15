@@ -10,7 +10,6 @@
 Performance-focused Software Engineer with a proven track record of architecting secure, scalable digital products. <br>
 Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript(React and Next.js) and Flutter.
 ---
-
 ## Skills
 ### Technical Skills
 - **Frontend Ecosystem**: React, Next.js, React Native, Vite, Flutter, Kotlin (Native Android)
@@ -60,7 +59,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 <br>
 <b>Situation:</b> Architectural blueprints need readable, highly accessible web-based visualizations for remote clients.<br>
 <b>Task:</b> Convert a 2,200 sq ft residential spatial layout into an interactive web-rendered environment.<br>
-<b>Action:</b> Programmed an optimized web client displaying interactive 3D orthographic and plan-view spatial modules.<br>
+<b>Action:</b> Programmed an optimized web client displaying interactive 3D orthographic and plan-view spatial modules- three.js.<br>
 <b>Result:</b> Delivered a high-fidelity digital proposal that eliminated technical blueprint confusion during stakeholder review.<br>
 </details>
 
