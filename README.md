@@ -1,7 +1,7 @@
 
 ---
 # Caleb Kibet
-### IT Consultant
+### IT Consultant     [Portfolio](https://ogc16.github.io/gitprofile/)
 [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) | [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com) | [+254 703 871 410](tel:+254703871410)
 
 ---
@@ -17,6 +17,10 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 - **Backend & Cloud**: Node.js, Supabase, PostgreSQL, REST/GraphQL APIs, async, local
 - **Architecture & Tooling**: UML Modeling (PlantUML), Git/GitHub, Expo, Xcode, IntelliJ IDEA
 - **Network tools**: Wireshark, OSINT, Burp Suite, Splunk, Nmap
+
+### Soft Skills
+- Keen attention to Detail
+- Timely - deadline arriving in sprints. (Agile)
 
 ---
 
