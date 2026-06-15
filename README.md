@@ -1,7 +1,7 @@
 
 ---
 # Caleb Kibet
-### IT Consultant     [Portfolio](https://ogc16.github.io/gitprofile/)
+### IT Consultant   |   [Portfolio](https://ogc16.github.io/gitprofile/)
 [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) | [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com) | [+254 703 871 410](tel:+254703871410)
 
 ---
@@ -20,7 +20,9 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ### Soft Skills
 - Keen attention to Detail
-- Timely - deadline arriving in sprints. (Agile)
+- Timely - Deadline arriving in sprints(Project organized into deliverables).
+- Quick learning and adaptation to changes/updates.
+- Collaborative approach.
 
 ---
 
