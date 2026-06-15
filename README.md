@@ -7,7 +7,7 @@
 ---
 
 ## Profile
-Strong foundation in softwae development and a proven track record of architecting scalable, secure-by-design digital products. Expert at bridging complex backend data structures with frictionless, user-centric web and mobile interfaces using React, Next.js, and Flutter. <br>
+Strong foundation in software development and a proven track record of architecting scalable, secure-by-design digital products. Expert at bridging complex backend data structures with frictionless, user-centric web and mobile interfaces using React, Next.js, and Flutter. <br>
 Driven by a performance-focused engineering philosophy that couples rigorous UML structural modeling with metric-driven business outcomes—consistently reducing system latency, errors, and operational overhead.
 ---
 
