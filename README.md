@@ -1,14 +1,14 @@
 
 ---
 # Caleb Kibet
-### Full-Stack Software Engineer & IT Consultant
+### IT Consultant
 [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) | [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com) | [+254 703 871 410](tel:+254703871410)
 
 ---
 
 ## Profile
-IT consultant with growing expertise in **Object-Oriented Analysis and Design (OOAD)**, **Software development**, and **Web/Mobile app development**. Focused on building scalable, secure-by-design, and user-centric solutions.
-
+Strong foundation in softwae development and a proven track record of architecting scalable, secure-by-design digital products. Expert at bridging complex backend data structures with frictionless, user-centric web and mobile interfaces using React, Next.js, and Flutter. <br>
+Driven by a performance-focused engineering philosophy that couples rigorous UML structural modeling with metric-driven business outcomes—consistently reducing system latency, errors, and operational overhead.
 ---
 
 ## Skills
@@ -136,13 +136,6 @@ IT consultant with growing expertise in **Object-Oriented Analysis and Design (O
     }
   });
 </script>
-
----
-
-## Design Philosophy
-- Clean structural layouts with frictionless navigational hierarchies.
-- Systems engineering fundamentals paired with crisp visual execution.
-- Bridging technical data with understandable, user-friendly layouts.
 
 ---
 
