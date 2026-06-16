@@ -7,7 +7,7 @@
 ---
 
 ## Profile
-Performance-focused IT Consultant with a strong foundation in Software Engineering specializing in architecting secure, scalable digital products. <br>
+Performance-focused IT Consultant with a strong foundation in Software Engineering specializing in developing secure, scalable digital products. <br>
 Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript(React and Next.js) and Flutter.
 
 ---
@@ -154,7 +154,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 **Innovation & impact** — Leading technical strategy for digital products while championing code quality, security, and agile execution.
 
 <p align="right">
-  <a href="/Caleb">🔺 Back to Top</a>
+  <a href="/Resume">🔺 Back to Top</a>
 </p>
 <p align="center">
   <small>© 2026 Ngeno Kibet Caleb.</small>
