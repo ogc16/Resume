@@ -7,7 +7,7 @@
 ---
 
 ## Profile
-Performance-focused IT Consultant with a strong foundation in Software Engineering specializing in developing secure, scalable digital products. <br>
+Performance-focused IT Consultant with a strong foundation in Software Engineering specializing in secure, scalable digital products. <br>
 Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript(React and Next.js) and Flutter.
 
 ---
