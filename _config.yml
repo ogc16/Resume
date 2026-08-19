@@ -1,2 +1,8 @@
 title: Caleb Kibet Ngeno - Resume
 description: IT Consultant | Cybersecurity | Full Stack Engineer
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
