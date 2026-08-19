@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) | [Email](mailto:ngenokibetcaleb@gmail.com) | [Phone](tel:+254703871410) | [Portfolio](https://ogc16.github.io/gitprofile/) | [GitHub](https://github.com/ogc16)
+<a href="https://www.linkedin.com/in/caleb-kibet-834020362">LinkedIn</a> | <a href="mailto:ngenokibetcaleb@gmail.com">Email</a> | <a href="tel:+254703871410">Phone</a> | <a href="https://ogc16.github.io/gitprofile/">Portfolio</a> | <a href="https://github.com/ogc16">GitHub</a>
 
 </div>
 
@@ -52,9 +52,9 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ## Projects
 
-### 01 — [ParcelFlow](https://github.com/ogc16/ParcelFlow) | Parcel Delivery App
+### 01 — <a href="https://github.com/ogc16/ParcelFlow">ParcelFlow</a> | Parcel Delivery App
 
-**[Live Demo](https://parcelapp.expo.app/)**
+**<a href="https://parcelapp.expo.app/">Live Demo</a>**
 
 * **Situation:** High market demand for streamlined, transparent parcel logistics and delivery tracking
 * **Task:** Engineer a cross-platform mobile application with real-time location tracking
@@ -63,9 +63,9 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ---
 
-### 02 — [AggregatorX](https://github.com/ogc16/aggregatorX) | News Aggregator
+### 02 — <a href="https://github.com/ogc16/aggregatorX">AggregatorX</a> | News Aggregator
 
-**[Live Demo](https://aggregatorx1.netlify.app/)**
+**<a href="https://aggregatorx1.netlify.app/">Live Demo</a>**
 
 * **Situation:** Users needed a single dashboard to aggregate cross-domain tech, crypto, and sports content
 * **Task:** Develop a full-stack aggregator with low latency and personalized feeds
@@ -76,7 +76,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ### 03 — [ePay](https://github.com/ogc16/epay) | Food & E-Commerce Mobile App
 
-**[Live Demo](https://epay.expo.app/)**
+**<a href="https://epay.expo.app/">Live Demo</a>**
 
 * **Situation:** High cart-abandonment rates caused by complicated checkout experiences
 * **Task:** Build a performance-optimized e-commerce client using React Native
@@ -87,7 +87,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ### 04 — [The Pavilion House](https://github.com/ogc16/house) | House Design
 
-**[Live Demo](https://ogc16.github.io/house/)**
+**<a href="https://ogc16.github.io/house/">Live Demo</a>**
 
 * **Situation:** Architectural blueprints need accessible web-based visualizations for remote clients
 * **Task:** Convert a 2,200 sq ft residential layout into an interactive web environment
@@ -98,7 +98,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ### 05 — [Data Manipulation Tool](https://github.com/ogc16/data_manipulation_tool) | File Utilities
 
-**[Live Demo](https://ogc16.github.io/data_manipulation_tool/)**
+**<a href="https://ogc16.github.io/data_manipulation_tool/">Live Demo</a>**
 
 * **Situation:** Office teams struggled with slow server-side data processing tools
 * **Task:** Build an all-in-one local utility for file conversions and visualization
@@ -109,12 +109,27 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ### 06 — [ShieldUp](https://github.com/ogc16/cyber-shield-up) | Vulnerability Scanner
 
-**[Chrome Web Store](https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn)**
+**<a href="https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn">Chrome Web Store</a>**
 
 * **Situation:** Developers ship misconfigured HTTP headers, creating XSS vulnerabilities
 * **Task:** Build a non-intrusive network analysis layer in the browser context
 * **Action:** Engineered async background engine monitoring response headers, cookies, and anomalies
 * **Result:** Deployed lightweight 2.18MiB utility providing real-time security hardening insights
+
+---
+
+## Experience
+
+### TechGaetano — Security Operations
+
+* Lead security operations and incident response, reducing cyberattack incidents by 40%
+* Implemented advanced threat monitoring and response strategies, improving detection by 30%
+* Conducted vulnerability assessments and penetration testing to identify weaknesses
+* Collaborated with cross-functional teams to develop security protocols and improve network safety
+* Provided training to internal staff on cybersecurity best practices and policies
+* Monitored and analyzed network traffic to identify security threats
+* Developed incident response plans and contributed to disaster recovery operations
+* Performed security audits and ensured compliance with industry standards
 
 ---
 
@@ -146,9 +161,9 @@ Coursework: UML Modeling, Conceptual Design, Data Structures & Algorithms, Softw
 
 <div align="center">
 
-**FULL STACK • CYBERSECURITY • MOBILE • CLOUD**
+<strong>FULL STACK • CYBERSECURITY • MOBILE • CLOUD</strong>
 
-[Portfolio](https://ogc16.github.io/gitprofile/) · [GitHub](https://github.com/ogc16) · [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) · [Email](mailto:ngenokibetcaleb@gmail.com)
+<a href="https://ogc16.github.io/gitprofile/">Portfolio</a> · <a href="https://github.com/ogc16">GitHub</a> · <a href="https://www.linkedin.com/in/caleb-kibet-834020362">LinkedIn</a> · <a href="mailto:ngenokibetcaleb@gmail.com">Email</a>
 
 <br>
 
