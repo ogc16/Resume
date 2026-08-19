@@ -1,161 +1,194 @@
+<table>
+  <tr>
+    <td>
+      <h1>Caleb Kibet Ngeno</h1>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&repeat=true&width=800&height=50&lines=IT+Consultant+%7C+Cybersecurity+%7C+Full+Stack+Engineer" alt="Typing SVG" />
+      <p><strong>Building secure, scalable digital products with clean architecture and production-grade execution.</strong></p>
+    </td>
+    <td align="right">
+      <img src="profile.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+    </td>
+  </tr>
+</table>
 
 ---
-# Caleb Kibet
-### IT Consultant   |   [Portfolio](https://ogc16.github.io/gitprofile/)
-[LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) | [ngenokibetcaleb@gmail.com](mailto:ngenokibetcaleb@gmail.com) | [+254 703 871 410](tel:+254703871410)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-kibet-834020362)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngenokibetcaleb@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254703871410)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ogc16.github.io/gitprofile/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogc16)
+
+</div>
 
 ---
 
 ## Profile
-Performance-focused IT Consultant with a strong foundation in Software Engineering specializing in secure, scalable digital products. <br>
-Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript(React and Next.js) and Flutter.
+
+Performance-focused IT Consultant with a strong foundation in Software Engineering specializing in secure, scalable digital products.
+
+Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript (React and Next.js) and Flutter.
+
+```mermaid
+graph LR
+    A[Backend Architecture] -->|APIs • Databases • Auth| B(Full Stack Integration)
+    B -->|React • Next.js • Flutter| C[User-Centric Interfaces)
+    C -->|Performance • Security • Scale| D([Production-Ready Solutions])
+```
+
+> **Engineering Philosophy:** *Bridge complex backends with intuitive frontends. Ship secure, scalable, production-grade systems.*
 
 ---
+
 ## Skills
+
 ### Technical Skills
-- **Frontend Ecosystem**: React, Next.js, React Native, Vite, Flutter, Kotlin (Native Android)
-- **Backend & Cloud**: Node.js, Supabase, PostgreSQL, REST/GraphQL APIs, async, local
-- **Architecture & Tooling**: UML Modeling (PlantUML), Git/GitHub, Expo, Xcode, IntelliJ IDEA
-- **Network tools**: Wireshark, OSINT, Burp Suite, Splunk, Nmap
+
+| **Frontend** | **Backend & Cloud** | **Architecture** | **Security** |
+| --- | --- | --- | --- |
+| React, Next.js | Node.js, Supabase | UML (PlantUML) | Wireshark, OSINT |
+| React Native, Vite | PostgreSQL, REST/GraphQL | Git/GitHub, Expo | Burp Suite, Splunk |
+| Flutter, Kotlin | Async, Local APIs | Xcode, IntelliJ | Nmap |
 
 ### Soft Skills
-- Keen attention to Detail
-- Timely - Deadline arriving in sprints(Project organized into deliverables).
-- Quick learning and adaptation to changes/updates.
-- Collaborative approach.
+
+* Keen attention to detail
+* Deadline-driven — projects organized into sprints with clear deliverables
+* Quick learning and adaptation to changes
+* Collaborative approach across cross-functional teams
 
 ---
 
-## Education
-- **Bachelor of Science in Information Technology (BScIT)** -JKUAT,Kenya <br>
-  *Focus: Object-Oriented Analysis and Design*  <br>
-  Coursework: UML modeling, conceptual design, Data Structures & Algorithms (DSA), and software architecture.
+## Skills Overview
 
-- *Junior Cybersecurity Analyst Certificate* - CISCO
-- *Cybersecurity Certificate* - Google
+```mermaid
+%%{init: {'themeVariables': {'pie1': '#3178c6', 'pie2': '#116191', 'pie3': '#2482e3', 'pie4': '#bf2a0d', 'pie5': '#1297b5'}}}%%
+pie showData
+    "JavaScript/TypeScript [35]" : 35
+    "Python [20]" : 20
+    "Flutter [20]" : 20
+    "Swift [10]" : 10
+    "Go & Others [15]" : 15
+```
 
 ---
 
 ## Projects
 
-<details>
-<summary><b>Parcel Delivery App (ParcelFlow)</b> — <a href="https://parcelapp.expo.app/">Demo</a></summary>
-<br>
-<b>Situation:</b> High market demand for streamlined, transparent parcel logistics and delivery tracking.<br>
-<b>Task:</b> Engineer a cross-platform mobile application supporting interactive, real-time location tracking.<br>
-<b>Action:</b> Built a responsive UI using Flutter; integrated map APIs and location services for precise spatial routing.<br>
-<b>Result:</b> Reduced package routing errors by 15% and optimized driver navigation accuracy.<br>
-</details>
+### 01 — [ParcelFlow](https://github.com/ogc16/ParcelFlow) | Parcel Delivery App
 
-<details>
-<summary><b>News Aggregator (AggregatorX)</b> — <a href="https://aggregatorx1.netlify.app/">Demo</a></summary>
-<br>
-<b>Situation:</b> Users required a single, fast dashboard to aggregate cross-domain tech, crypto, and sports content.<br>
-<b>Task:</b> Develop a full-stack aggregator platform with low network latency and custom personalized feeds.<br>
-<b>Action:</b> Programmed a React+Vite frontend and a Node.js scraping architecture (Cheerio). Configured Supabase for user auth, data caching, and bookmark storage.<br>
-<b>Result:</b> Processed 1,000+ daily articles efficiently while maintaining rapid, sub-100ms API response times.<br>
-</details>
+<div align="center">
+<a href="https://parcelapp.expo.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=expo&logoColor=white" /></a>
+</div>
 
-<details>
-<summary><b>Food & E-Commerce Mobile App (ePay)</b> — <a href="https://epay.expo.app/">Demo</a></summary>
-<br>
-<b>Situation:</b> High cart-abandonment rates in traditional retail apps caused by complicated checkout experiences.<br>
-<b>Task:</b> Build a performance-optimized e-commerce and ordering client interface using React Native.<br>
-<b>Action:</b> Architected a state-managed cart pipeline with secure, transactional payment integration checkpoints.<br>
-<b>Result:</b> Streamlined checkout mechanics, reducing end-to-end customer purchase times by ~30%.<br>
-</details>
-
-<details>
-<summary><b>House Design (The Pavilion House)</b> — <a href="https://ogc16.github.io/house/">Demo</a></summary>
-<br>
-<b>Situation:</b> Architectural blueprints need readable, highly accessible web-based visualizations for remote clients.<br>
-<b>Task:</b> Convert a 2,200 sq ft residential spatial layout into an interactive web-rendered environment.<br>
-<b>Action:</b> Programmed an optimized web client displaying interactive 3D orthographic and plan-view spatial modules- three.js.<br>
-<b>Result:</b> Delivered a high-fidelity digital proposal that eliminated technical blueprint confusion during stakeholder review.<br>
-</details>
-
-<details>
-<summary><b>File Manipulation Tools</b> — <a href="https://ogc16.github.io/data_manipulation_tool/">Demo</a></summary>
-<br>
-<b>Situation:</b> Office teams frequently struggle with local data processing due to slow server-side transformation tools.<br>
-<b>Task:</b> Construct an all-in-one local data utility suite handling large file conversions and data visualization.<br>
-<b>Action:</b> Programmed clean file pipelines for Excel/PDF-to-CSV transformation, chart rendering, ZIP archival operations, and client-side encryption algorithms.<br>
-<b>Result:</b> Saved users significant administrative processing overhead by executing all operations safely in the browser client.<br>
-</details>
-
-<details>
-<summary><b>Image Editor & CWS Asset Resizer</b> — <a href="https://ogc16.github.io/ChromeExtensionTool/">Demo</a></summary>
-<br>
-<b>Situation:</b> Product developers spend excessive time manually formatting graphic banners for standard application marketplace requirements.<br>
-<b>Task:</b> Automate dynamic multi-ratio graphical resizing and background canvas generation.<br>
-<b>Action:</b> Implemented explicit canvas scaling engines inside a client-side layout tool supporting crop, contain, and ZIP exports.<br>
-<b>Result:</b> Standardized platform compliance and cut extension store listing preparation times by roughly 40%.<br>
-</details>
-
-<details>
-<summary><b>Vulnerability Scanner (ShieldUp)</b> — <a href="https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn">Chrome Web Store Extension</a></summary>
-<br>
-<b>Situation:</b> Developers inadvertently ship misconfigured HTTP headers, creating immediate cross-site scripting vulnerabilities.<br>
-<b>Task:</b> Build a non-intrusive network traffic analysis layer directly embedded inside the browser context.<br>
-<b>Action:</b> Engineered an asynchronous background engine monitoring incoming host response headers, cookie state flags, and data anomalies.<br>
-<b>Result:</b> Deployed a lightweight 2.18MiB utility providing real-time security hardening insights without injecting processing overhead.<br>
-</details>
+* **Situation:** High market demand for streamlined, transparent parcel logistics and delivery tracking
+* **Task:** Engineer a cross-platform mobile application with real-time location tracking
+* **Action:** Built responsive UI with Flutter; integrated map APIs and location services for spatial routing
+* **Result:** Reduced package routing errors by 15% and optimized driver navigation accuracy
 
 ---
 
-<div style="width: 80%; max-width: 600px; margin: 20px auto;">
-  <canvas id="projectChart"></canvas>
+### 02 — [AggregatorX](https://github.com/ogc16/aggregatorX) | News Aggregator
+
+<div align="center">
+<a href="https://aggregatorx1.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  const ctx = document.getElementById('projectChart').getContext('2d');
-  const projectChart = new Chart(ctx, {
-    type: 'doughnut',
-    data: {
-      labels: ['JavaScript/TypeScript', 'Python', 'Flutter', 'Swift', 'C++', 'Go','Others'],
-      datasets: [{
-        data: [35, 20, 20, 10, 10, 3, 2],
-        backgroundColor: [
-          '#3178c6', // JavaScript/TypeScript
-          '#116191', // Python
-          '#2482e3', // Flutter
-          '#bf2a0d', // Swift
-          '#de83bb', // C++
-          '#1297b5', // Go
-          '#e3c712'  // Others
-        ],
-        borderColor: '#ffffff',
-        borderWidth: 2
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: {
-          position: 'bottom',
-          labels: { padding: 20, font: { size: 14 } }
-        },
-        title: {
-          display: true,
-          text: 'Projects Distribution by Language',
-          font: { size: 16 }
-        }
-      }
-    }
-  });
-</script>
+* **Situation:** Users needed a single dashboard to aggregate cross-domain tech, crypto, and sports content
+* **Task:** Develop a full-stack aggregator with low latency and personalized feeds
+* **Action:** React+Vite frontend with Node.js scraping (Cheerio); Supabase for auth, caching, bookmarks
+* **Result:** Processed 1,000+ daily articles with sub-100ms API response times
+
+---
+
+### 03 — [ePay](https://github.com/ogc16/epay) | Food & E-Commerce Mobile App
+
+<div align="center">
+<a href="https://epay.expo.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=expo&logoColor=white" /></a>
+</div>
+
+* **Situation:** High cart-abandonment rates caused by complicated checkout experiences
+* **Task:** Build a performance-optimized e-commerce client using React Native
+* **Action:** Architected state-managed cart pipeline with secure payment integration checkpoints
+* **Result:** Streamlined checkout, reducing end-to-end purchase times by approximately 30%
+
+---
+
+### 04 — [The Pavilion House](https://github.com/ogc16/house) | House Design
+
+<div align="center">
+<a href="https://ogc16.github.io/house/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+* **Situation:** Architectural blueprints need accessible web-based visualizations for remote clients
+* **Task:** Convert a 2,200 sq ft residential layout into an interactive web environment
+* **Action:** Built optimized web client with 3D orthographic and plan-view modules using Three.js
+* **Result:** Delivered high-fidelity digital proposal eliminating blueprint confusion during reviews
+
+---
+
+### 05 — [Data Manipulation Tool](https://github.com/ogc16/data_manipulation_tool) | File Utilities
+
+<div align="center">
+<a href="https://ogc16.github.io/data_manipulation_tool/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+* **Situation:** Office teams struggled with slow server-side data processing tools
+* **Task:** Build an all-in-one local utility for file conversions and visualization
+* **Action:** Built file pipelines for Excel/PDF-to-CSV, chart rendering, ZIP archival, client-side encryption
+* **Result:** Saved significant admin overhead by executing all operations in the browser
+
+---
+
+### 06 — [ShieldUp](https://github.com/ogc16/cyber-shield-up) | Vulnerability Scanner
+
+<div align="center">
+<a href="https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn"><img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</div>
+
+* **Situation:** Developers ship misconfigured HTTP headers, creating XSS vulnerabilities
+* **Task:** Build a non-intrusive network analysis layer in the browser context
+* **Action:** Engineered async background engine monitoring response headers, cookies, and anomalies
+* **Result:** Deployed lightweight 2.18MiB utility providing real-time security hardening insights
+
+---
+
+## Education
+
+**Bachelor of Science in Information Technology**
+
+*Jomo Kenyatta University of Agriculture and Technology (JKUAT)*
+
+Focus: Object-Oriented Analysis and Design
+Coursework: UML Modeling, Conceptual Design, Data Structures & Algorithms, Software Architecture
+
+---
+
+## Certifications
+
+* Junior Cybersecurity Analyst — Cisco
+* Cybersecurity Certificate — Google
 
 ---
 
 ## Focus
-**Technical leadership** — Architecting resilient full-stack systems with optimized mobile applications and performance-focused interfaces.  
-**User-centered engineering** — Bridging complex backends with intuitive frontends to deliver production-ready solutions.  
-**Innovation & impact** — Leading technical strategy for digital products while championing code quality, security, and agile execution.
 
-<p align="right">
-  <a href="/Resume">🔺 Back to Top</a>
-</p>
-<p align="center">
-  <small>© 2026 Ngeno Kibet Caleb.</small>
-</p>
+* **Technical leadership** — Architecting resilient full-stack systems with optimized mobile applications and performance-focused interfaces
+* **User-centered engineering** — Bridging complex backends with intuitive frontends to deliver production-ready solutions
+* **Innovation & impact** — Leading technical strategy for digital products while championing code quality, security, and agile execution
+
+---
+
+<div align="center">
+
+**FULL STACK • CYBERSECURITY • MOBILE • CLOUD**
+
+[Portfolio](https://ogc16.github.io/gitprofile/) · [GitHub](https://github.com/ogc16) · [LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) · [Email](mailto:ngenokibetcaleb@gmail.com)
+
+<br>
+
+© 2026 Caleb Kibet Ngeno. All rights reserved.
+
+</div>
