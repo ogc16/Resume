@@ -34,7 +34,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 ```mermaid
 graph LR
     A[Backend Architecture] -->|APIs • Databases • Auth| B(Full Stack Integration)
-    B -->|React • Next.js • Flutter| C[User-Centric Interfaces)
+    B -->|React • Next.js • Flutter| C[User-Centric Interfaces]
     C -->|Performance • Security • Scale| D([Production-Ready Solutions])
 ```
 
