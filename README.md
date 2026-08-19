@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Caleb Kibet Ngeno</h1>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&repeat=true&width=800&height=50&lines=IT+Consultant+%7C+Cybersecurity+%7C+Full+Stack+Engineer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0969da&center=true&vCenter=true&repeat=true&width=800&height=50&lines=IT+Consultant+%7C+Cybersecurity+%7C+Full+Stack+Engineer" alt="Typing SVG" />
       <p><strong>Building secure, scalable digital products with clean architecture and production-grade execution.</strong></p>
     </td>
     <td align="right">
