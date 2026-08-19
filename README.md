@@ -15,11 +15,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-kibet-834020362)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngenokibetcaleb@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254703871410)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ogc16.github.io/gitprofile/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ogc16)
+[LinkedIn](https://www.linkedin.com/in/caleb-kibet-834020362) | [Email](mailto:ngenokibetcaleb@gmail.com) | [Phone](tel:+254703871410) | [Portfolio](https://ogc16.github.io/gitprofile/) | [GitHub](https://github.com/ogc16)
 
 </div>
 
@@ -31,14 +27,7 @@ Performance-focused IT Consultant with a strong foundation in Software Engineeri
 
 Expert at bridging complex backend architectures with frictionless, user-centric web and mobile interfaces using TypeScript (React and Next.js) and Flutter.
 
-```mermaid
-graph LR
-    A[Backend Architecture] -->|APIs • Databases • Auth| B(Full Stack Integration)
-    B -->|React • Next.js • Flutter| C[User-Centric Interfaces]
-    C -->|Performance • Security • Scale| D([Production-Ready Solutions])
-```
-
-> **Engineering Philosophy:** *Bridge complex backends with intuitive frontends. Ship secure, scalable, production-grade systems.*
+**Engineering Philosophy:** *Bridge complex backends with intuitive frontends. Ship secure, scalable, production-grade systems.*
 
 ---
 
@@ -61,27 +50,11 @@ graph LR
 
 ---
 
-## Skills Overview
-
-```mermaid
-%%{init: {'themeVariables': {'pie1': '#3178c6', 'pie2': '#116191', 'pie3': '#2482e3', 'pie4': '#bf2a0d', 'pie5': '#1297b5'}}}%%
-pie showData
-    "JavaScript/TypeScript [35]" : 35
-    "Python [20]" : 20
-    "Flutter [20]" : 20
-    "Swift [10]" : 10
-    "Go & Others [15]" : 15
-```
-
----
-
 ## Projects
 
 ### 01 — [ParcelFlow](https://github.com/ogc16/ParcelFlow) | Parcel Delivery App
 
-<div align="center">
-<a href="https://parcelapp.expo.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=expo&logoColor=white" /></a>
-</div>
+**[Live Demo](https://parcelapp.expo.app/)**
 
 * **Situation:** High market demand for streamlined, transparent parcel logistics and delivery tracking
 * **Task:** Engineer a cross-platform mobile application with real-time location tracking
@@ -92,9 +65,7 @@ pie showData
 
 ### 02 — [AggregatorX](https://github.com/ogc16/aggregatorX) | News Aggregator
 
-<div align="center">
-<a href="https://aggregatorx1.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-</div>
+**[Live Demo](https://aggregatorx1.netlify.app/)**
 
 * **Situation:** Users needed a single dashboard to aggregate cross-domain tech, crypto, and sports content
 * **Task:** Develop a full-stack aggregator with low latency and personalized feeds
@@ -105,9 +76,7 @@ pie showData
 
 ### 03 — [ePay](https://github.com/ogc16/epay) | Food & E-Commerce Mobile App
 
-<div align="center">
-<a href="https://epay.expo.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=expo&logoColor=white" /></a>
-</div>
+**[Live Demo](https://epay.expo.app/)**
 
 * **Situation:** High cart-abandonment rates caused by complicated checkout experiences
 * **Task:** Build a performance-optimized e-commerce client using React Native
@@ -118,9 +87,7 @@ pie showData
 
 ### 04 — [The Pavilion House](https://github.com/ogc16/house) | House Design
 
-<div align="center">
-<a href="https://ogc16.github.io/house/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+**[Live Demo](https://ogc16.github.io/house/)**
 
 * **Situation:** Architectural blueprints need accessible web-based visualizations for remote clients
 * **Task:** Convert a 2,200 sq ft residential layout into an interactive web environment
@@ -131,9 +98,7 @@ pie showData
 
 ### 05 — [Data Manipulation Tool](https://github.com/ogc16/data_manipulation_tool) | File Utilities
 
-<div align="center">
-<a href="https://ogc16.github.io/data_manipulation_tool/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+**[Live Demo](https://ogc16.github.io/data_manipulation_tool/)**
 
 * **Situation:** Office teams struggled with slow server-side data processing tools
 * **Task:** Build an all-in-one local utility for file conversions and visualization
@@ -144,9 +109,7 @@ pie showData
 
 ### 06 — [ShieldUp](https://github.com/ogc16/cyber-shield-up) | Vulnerability Scanner
 
-<div align="center">
-<a href="https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn"><img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</div>
+**[Chrome Web Store](https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn)**
 
 * **Situation:** Developers ship misconfigured HTTP headers, creating XSS vulnerabilities
 * **Task:** Build a non-intrusive network analysis layer in the browser context
