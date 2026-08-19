@@ -85,18 +85,18 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ---
 
-### 04 — [The Pavilion House](https://github.com/ogc16/house) | House Design
+### 04 — <a href="https://github.com/ogc16/PasswordGenerator">SecurePass</a> | Chrome Password Generator
 
-**<a href="https://ogc16.github.io/house/">Live Demo</a>**
+**<a href="https://chromewebstore.google.com/detail/securepass">Chrome Web Store</a>**
 
-* **Situation:** Architectural blueprints need accessible web-based visualizations for remote clients
-* **Task:** Convert a 2,200 sq ft residential layout into an interactive web environment
-* **Action:** Built optimized web client with 3D orthographic and plan-view modules using Three.js
-* **Result:** Delivered high-fidelity digital proposal eliminating blueprint confusion during reviews
+* **Situation:** Users struggle to create strong, unique passwords for different accounts
+* **Task:** Build a Chrome extension for generating random secure passwords
+* **Action:** Developed browser extension with customizable password length, character types, and copy-to-clipboard functionality
+* **Result:** Lightweight tool helping users generate cryptographically secure passwords instantly
 
 ---
 
-### 05 — [Data Manipulation Tool](https://github.com/ogc16/data_manipulation_tool) | File Utilities
+### 05 — <a href="https://github.com/ogc16/data_manipulation_tool">Data Manipulation Tool</a> | File Utilities
 
 **<a href="https://ogc16.github.io/data_manipulation_tool/">Live Demo</a>**
 
@@ -107,7 +107,7 @@ Expert at bridging complex backend architectures with frictionless, user-centric
 
 ---
 
-### 06 — [ShieldUp](https://github.com/ogc16/cyber-shield-up) | Vulnerability Scanner
+### 06 — <a href="https://github.com/ogc16/cyber-shield-up">ShieldUp</a> | Vulnerability Scanner
 
 **<a href="https://chromewebstore.google.com/detail/mlgjidmlbpmcphkaainofhkgjelmffnn">Chrome Web Store</a>**
 
